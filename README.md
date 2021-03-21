@@ -1,5 +1,4 @@
 # hello-world
-just another repo
 
 Vlad here Да Да 
 
