@@ -5,7 +5,7 @@ Vlad here Да Да
 Here for fun and good times Да Да 
 I fight bear is forest Да Да 
 
-3/21/2021 Learning
+3/21/2021 Learning ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 If you ever see the error message SyntaxError: EOL while scanning string literal, you probably forgot the final single quote character at the end of the string
 
@@ -13,14 +13,20 @@ If you ever see the error message SyntaxError: EOL while scanning string literal
 
 ― Ralph Waldo Emerson, Self-Reliance
 
-3/22/2021 Learning
+3/22/2021 Learning ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Functions"
+
 str() - handy when you have an integer or float that you want to concatenate to a string
+
 int() - helpful if you have a number as a string value that you want to use in some mathematics
-float() -return a floating point number constructed from a number or string
+
+float() - return a floating point number constructed from a number or string
+
 round() - returns the nearest integer to its input.
+
 len() - takes a string and evaluates to an int of the number of characters in the string
+
 print() - simple text output (to the screen)
 
 input() - input (from the keyboard)
