@@ -13,3 +13,19 @@ If you ever see the error message SyntaxError: EOL while scanning string literal
 
 ― Ralph Waldo Emerson, Self-Reliance
 
+3/22/2021 Learning
+
+"Functions"
+str() - handy when you have an integer or float that you want to concatenate to a string
+int() - helpful if you have a number as a string value that you want to use in some mathematics
+float() -return a floating point number constructed from a number or string
+round() - returns the nearest integer to its input.
+len() - takes a string and evaluates to an int of the number of characters in the string
+print() - simple text output (to the screen)
+
+input() - input (from the keyboard)
+#always returns a string, even if the user enters a number
+
++, -, *, /, //, %, and ** for math operations | + and * for string operations
+
+"Expressions" consist of values (such as 2) and operators (such as +)
