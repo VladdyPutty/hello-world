@@ -5,7 +5,7 @@ Vlad here Да Да
 Here for fun and good times Да Да 
 I fight bear is forest Да Да 
 
-3/21/2021 Learning ----------------------------------------------------------------------------------------------------------------------------------------------------------
+3/21/2021 Learning --------------------------------------------------------------------------------------------------------------------------------------
 
 If you ever see the error message SyntaxError: EOL while scanning string literal, you probably forgot the final single quote character at the end of the string
 
@@ -13,7 +13,7 @@ If you ever see the error message SyntaxError: EOL while scanning string literal
 
 ― Ralph Waldo Emerson, Self-Reliance
 
-3/22/2021 Learning ----------------------------------------------------------------------------------------------------------------------------------------------------------
+3/22/2021 Learning ---------------------------------------------------------------------------------------------------------------------------------------
 
 "Functions"
 
